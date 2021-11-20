@@ -1,0 +1,67 @@
+ What is Linux?
+-->Linux is kernel distributed under an open source opertaing system,its functionalities similar like unix,
+   the kernel is the heart of the linux os.
+
+-->It's directly communicate with the hardware.
+
+ Advantages:
+           * It's easy to learn for beginners.
+           * Linux have more secured.
+           * user friendly when we know the commands.
+
+ Disadvantages:
+           * One main issue is drivers, before install any hardware components you must check whether the
+             drivers are present or not.
+           * More difficult to find out the applications that supports.
+----------------------------------------------------------------------------------------------------------------------------
+
+ What is shell?
+--> User communicate with OS(kernel) through a program Known as the shell.
+--> It Translates commands provided by the user and converts it into a language that is understood by OS(kernel).
+--> It is a command line interpreter.
+
+What is Kernel?
+-->It interacts with the hardware.
+-->It responsible for memory management, task scheduling and file management.
+-->It checks the process is running or process is waiting for the request of the user.
+   And it provide the Memory for the processess those are running on the system.
+-->It is the software thar interfaces directly with the hardware.
+-->It is also called Heart of the Operating system.
+
+ FLOW OF EXECUTION:
+-->Both the shell and kernel are the parts of the OS.These both parts are used for performing any OPeration in the system.
+-->When a user gives his command for performing any operation,then the request will goes to the shell parts.
+-->The shell part is also called the interpreter which translates the Human program into the Machine language.
+-->The the request will transfer to the kernel.
+-->After receiving the request from shell then this will process the request and display result on the screen.
+
+---------------------------------------------------------------------------------------------------------------------------
+Linux Distributions and their Speciaties
+
+-->Puppy linux:
+   It is a lightweight Linux distro, intended to be run from removable media.(e.g. DVD's and USB drives).
+
+-->SUSE Linux:
+   Includes oprnSUSE, a community distribution. SUSE Linux Enterprise, a commercial distribution designed for enterprise use.
+
+-->Kali Linux:
+   Kali provides users with what amounts to a hackers toolkit and is widely used for penetration testing by information security professional.
+
+-->Linux Mint:
+   It is one of the most popular desktop Linux Distributions.It works out of the box,with full multimedia support and is extremely easy to use.
+
+-->TAILS:
+   (The Amnesic Incognito Live System) is a live bootable Linux distribution that not only allows users to work on the internet in complet anonymity,
+   but also erases every last trace of all activites each time the system is shutdown. if you want to invisible on the internet this is
+   how you do it.
+
+-->Fedora:
+   It is called as bleedinh edge Linux Distribution because it is always rolling out with the latest software, driver updates, and Linux feature,
+   It ship with the latest stable kernel along with all its benefits fedora provides advanced advanced security features within the distro via 
+   the Security-Enhanced Linux(SELinux)module.
+
+------------------------------------------------------------------------------------------------------------------------------------
+ 
+
+
+
