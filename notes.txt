@@ -1,0 +1,67 @@
+
+TYPE OF TESTING
+
+->Black box testing:
+ 1.It involves testing against a system where the code are invisible.
+ 2.This is one of the powerfull testing technique.
+ 3.Tester do not require any technical knowledge.
+ 4.It is a Dynamic Application security Testing.
+
+->White box testing:
+ 1.It is a testing in which internal structure and coding of software are tested.
+ 2.In this testing the testing codes are visible.
+ 3.Here the test cases can be easily automated.
+ 4.This testing technique is quite complex and expensive.
+
+->Regression testing:
+ 1.Regression testing means testing the software application when it undergoes a code change.
+ 2.It is nothing but full or partial selection of already executed test cases.
+ 3.This testing improve product quality.
+ 4.It require when we want to change the code.
+ 5.It ensure that the fixed bugs and issues do not reoccur.
+
+->Smoke testing:
+ 1.It is a process that determines whether the deployed software build is stable or not.
+ 2.It also check the core functionality of a program.
+ 3.It is also called as build verification testing.
+ 4.Usually the smoke testing is documented.
+ 5.smoke testing can be done by developers before releasing the build to the tester.
+
+->Alpha testing:
+ 1.It is a type of acceptances testing. 
+ 2.It is done on an applications towards the end of development process when the product is almost done.
+ 3.It does not involve functional testing on the application.
+ 4.This testing is carried out by the tester who are internal employees of the organization.
+ 5.This testing improves software quality.
+
+->Beta testing:
+ 1.It is the final step in the SDLC before releasing the product.
+ 2.It is a opportunity for real user to use a product .
+ 3.Beta tests can be open or closed.
+ 4.It is cost-effective as compared to alpha testing.
+ 5.It provides an additional level of testing validation to the development lifecycle of the product.
+
+->System testing:
+ 1.It is also referred as system integration testing.
+ 2.It is the process in which a QA team evaluates how the various components of an application interact together.
+ 
+->Stress testing:
+1.it is a type of testing that is so harsh 
+2.It is type of testing that verifies stability & reliability of software application.
+
+->Performances testing:
+ 1.It is a testing process used for testing the speed,response time, stability.
+ 2.It validate the fundamental features of the software.
+
+
+
+   
+
+
+
+
+
+
+
+
+ 
